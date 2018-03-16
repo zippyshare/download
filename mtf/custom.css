@@ -5,3 +5,4 @@
 .default-bg, .footer-top.light-gray-bg { display: none !important; }
 .header { display: none !important; }
 #portlet { display: none !important; }
+.header-top.dark{display:none!important}

@@ -1,8 +1,21 @@
 .adsbygoogle { display: none !important; }
+
 .page-logo, .logo { display: none !important; }
+
 .page-footer, .footer, .subfooter { display: none !important; }
+
 .scroll-spy .banner { display: none !important; }
+
 .default-bg, .footer-top.light-gray-bg { display: none !important; }
+
 .header { display: none !important; }
+
 #portlet { display: none !important; }
-.header-top.dark{display:none!important}
+
+.modal {font-size: 0px !important;}
+
+.bg-blue {font-size: 0px; display:none !important;}
+
+.pricing-content-1 .price-table-pricing > h3 {display:none !important;}
+
+.portlet.light .portlet-body

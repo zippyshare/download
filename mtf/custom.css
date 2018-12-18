@@ -1,4 +1,4 @@
-.adsbygoogle { display: none !important; }
+.adsbygoogle { position: absolute !important; left: -1000px !important;}
 
 .page-logo, .logo { display: none !important; }
 
